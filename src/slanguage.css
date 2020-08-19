@@ -1,6 +1,6 @@
 .App-slang {
     background-color: white;
-    font-family: 'montserrat';
+    font-family: 'Montserrat', sans-serif;    
     max-width: 1150px;
     height: 100vh;
 }
@@ -10,7 +10,7 @@
     height:100%;
     background-color: white;
     letter-spacing: 0.3px;
-    font-family: 'montserrat';
+    font-family: 'Montserrat', sans-serif;    
 }
 .slang-div-2 {
     width:100%;

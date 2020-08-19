@@ -3,7 +3,7 @@
 }
 .App-slang {
     background-color: white;
-    font-family: 'montserrat';
+    font-family: 'Montserrat', sans-serif;    
     max-width: 1150px;
     height: 100vh;
 }
@@ -13,12 +13,12 @@
     height:100%;
     background-color: white;
     letter-spacing: 0.3px;
-    font-family: 'montserrat';
+    font-family: 'Montserrat', sans-serif;    
 }
 .yellow-div-2 {
     background-color: #081133;
     padding-top: 100px;
-    font-family: 'montserrat';
+    font-family: 'Montserrat', sans-serif;    
     padding-bottom: 100px;
 }
 
@@ -160,6 +160,9 @@
 }
 .img6 {
     width:40%;
+}
+.h100 {
+    height:100%;
 }
 .img7 {
     width:100%;

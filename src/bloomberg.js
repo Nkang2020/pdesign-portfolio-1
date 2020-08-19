@@ -202,7 +202,7 @@ openCity(evt,cityName) {
                       <span className="lh23">After nailing down the information architecture, we created mid-fidelity screens demonstrating various pages’ functions. The Homepage is a hub of the engineers’ projects. The documentation page documents each project’s process from goals to experiments. The runs page is a collection of all the engineers’ runs, and from there, engineers are able to graph them on a runs visualize page.</span>
                       <img className="img5" src={Img12} />
                             </div>
-                            <img className="img6 img6fix" src={Img13} />
+                            <img className="img6 img6fix h100" src={Img13} />
                         </div>
 
                         <div class="flex-div mtop150 screenfix">
@@ -211,7 +211,7 @@ openCity(evt,cityName) {
                       <span className="lh23">Our target user (ML engineers) consists of many types– ranging from new team members to team leads. We have identified the four primary user types for our solution, and the goal of this usability test is to have each of these types complete a task specific to their needs. Through this, we hope to understand how effectively the user is able to navigate through various flows by measuring both time and overall comprehension.</span>
                       
                             </div>
-                            <img className="img6" src={Img14} />
+                            <img className="img6 h100" src={Img14} />
                         </div>
 
                         <div className="morewid mauto mtop150">
