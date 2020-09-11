@@ -43,7 +43,7 @@ openCity(evt,cityName) {
       <div className="App-slang">
         <NavBar />
         <ProjectStart desc="IMPROVING BLOOMBERG’S MACHINE LEARNING MANAGEMENT WORKFLOW BY REDUCING COMPLEXITY" img={Img1}/>
-        <ProjectBoxes info={"Bloomberg + Carnegie Mellon Master's of Human Computer Interation Capstone project."} duration={"January 2020 - August 2020, Ongoing"} role={"Product Designer + Technical Lead"} team={"Neha Chopade - Research \n Chi Huang - Research \n Amy Lu - Design \n Danielle Shoshani - PM"}/>
+        <ProjectBoxes info={"Bloomberg + Carnegie Mellon Master's of Human Computer Interation Capstone project."} duration={"January 2020 - August 2020"} role={"Product Designer + Technical Lead"} team={"Neha Chopade - Research \n Chi Huang - Research \n Amy Lu - Design \n Danielle Shoshani - PM"}/>
         </div>
         <div className="yellow-div-2">
         <div className="slang-div-2-bloom">

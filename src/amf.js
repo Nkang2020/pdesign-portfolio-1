@@ -120,21 +120,19 @@ class Amf extends Component {
                     <div className="amf-flex-in-2">
                       <span className="lh23 fsize20-2 sub-header">AMF Bakeries:</span>
                       <ol>
-                      <li className="microint">Homepage loading animation</li>
-                      <li className="microint">Transition loading of modules</li>
-                      <li className="microint">Sliding screens</li>
-                      <li className="microint">Easy to understand notifications</li>
-                      <li className="microint">Progressive disclosure</li>
+                      <li className="microint">More data on customers</li>
+                      <li className="microint">More data on products for future improvements</li>
+                      <li className="microint">New pipelines for maintenance sales and upsells</li>
+                      <li className="microint">Improved brand loyalty</li>
                       </ol>
                     </div>
                     <div className="amf-flex-in-2 amf-flex-in-2-push">
                       <span className="lh23 fsize20-2 sub-header">Customers:</span>
                       <ol>
-                      <li className="microint">Homepage loading animation</li>
-                      <li className="microint">Transition loading of modules</li>
-                      <li className="microint">Sliding screens</li>
-                      <li className="microint">Easy to understand notifications</li>
-                      <li className="microint">Progressive disclosure</li>
+                      <li className="microint">Streamlined issue reporting</li>
+                      <li className="microint">Improved products</li>
+                      <li className="microint">Reduced cognitive load by receiving notifications of issues</li>
+                      <li className="microint">Reduced manufacturing downtime</li>
                       </ol>
                     </div>
                   </div>
