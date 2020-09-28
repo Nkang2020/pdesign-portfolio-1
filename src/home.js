@@ -18,7 +18,7 @@ class Home extends Component {
         <div className="App-header">
         <NavBar />
         <div className="vhdiv">
-          <h2 className="intro">HOLA! I'M <span className="name">NORMAN KANG</span>, A PRODUCT DESIGNER / FRONT-END DEVELOPER.</h2>
+          <h2 className="intro">HI! I'M <span className="name">NORMAN KANG</span>, A PRODUCT DESIGNER / FRONT-END DEVELOPER.</h2>
           <img className="gif" src={Arrow} />
           <a id='work'>&nbsp;</a>   
           </div>

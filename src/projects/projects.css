@@ -17,7 +17,7 @@
     /* background-image: url("../images/bloomberg1.png");
     background-repeat: no-repeat; */
     background-size: 100%;
-    border: 28px solid #131313;
+    border: 26px solid #131313;
     margin-top: 30px;
     /* box-shadow:0px 0px 0px 10px red inset; */
     overflow: hidden;
@@ -32,7 +32,7 @@
     /* background-image: url("../images/slanguage1.png");
     background-repeat: no-repeat;
     background-size: 100%; */
-    border: 28px solid #131313;
+    border: 26px solid #131313;
     margin-top: 30px;
     /* box-shadow:0px 0px 0px 10px #FDF400 inset; */
     overflow: hidden;
@@ -47,7 +47,22 @@
     /* background-image: url("../images/slanguage1.png");
     background-repeat: no-repeat;
     background-size: 100%; */
-    border: 28px solid #131313;
+    border: 26px solid #131313;
+    margin-top: 30px;
+    /* box-shadow:0px 0px 0px 10px #FDF400 inset; */
+    overflow: hidden;
+    box-sizing: border-box;
+    -webkit-transition: border 0.5s; /* Safari prior 6.1 */
+    transition: border 0.5s;
+    transition-timing-function: ease;
+}
+.single-proj4 {
+    width:100%;
+    /* height:462px; */
+    /* background-image: url("../images/slanguage1.png");
+    background-repeat: no-repeat;
+    background-size: 100%; */
+    border: 26px solid #131313;
     margin-top: 30px;
     /* box-shadow:0px 0px 0px 10px #FDF400 inset; */
     overflow: hidden;
@@ -60,22 +75,16 @@
     border: 21px solid red;
 }
 .single-proj1:hover {
-    border: 28px solid #FDA6FF;
+    border: 26px solid #FDA6FF;
 }
 .single-proj2:hover {
-    border: 28px solid #F93943;
+    border: 26px solid #DF2935;
 }
 .single-proj3:hover {
-    border: 28px solid #053C5E;
+    border: 26px solid #053C5E;
 }
-.inside-1 {
-    width: 55%;
-    height:100%;
-    background-size: cover;
-    background-position: 50% 50%;
-    background-image: url("../images/holder.jpeg"); /* The image used */
-    background-color: #cccccc; /* Used if the image is unavailable */
-    background-repeat: no-repeat; /* Do not repeat the image */ 
+.single-proj4:hover {
+    border: 26px solid #EFCFBD;
 }
 .img-1 {
     width: 100%;
@@ -102,6 +111,9 @@
     .single-proj3 {
         border: 21px solid #131313;
     }
+    .single-proj4 {
+        border: 21px solid #131313;
+    }
     .single-proj1:hover {
         border: 21px solid #FDA6FF;
     }
@@ -110,6 +122,9 @@
     }
     .single-proj3:hover {
         border: 21px solid #053C5E;
+    }
+    .single-proj4:hover {
+        border: 21px solid #EFCFBD;
     }
   }
 
@@ -125,6 +140,9 @@
     .single-proj3 {
         border: 13px solid #131313;
     }
+    .single-proj4 {
+        border: 13px solid #131313;
+    }
     .single-proj1:hover {
         border: 13px solid #FDA6FF;
     }
@@ -133,5 +151,8 @@
     }
     .single-proj3:hover {
         border: 13px solid #053C5E;
+    }
+    .single-proj4:hover {
+        border: 13px solid #EFCFBD;
     }
   }

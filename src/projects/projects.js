@@ -2,12 +2,18 @@ import React, { Component } from 'react';
 import './projects.css';
 import slangpic from '../images/slanguage1.png';
 import bloompic from '../images/bmhci4.png';
+import diagpic from '../images/wd-diagnomics.png';
 import amfpic from '../images/amf1.png';
 
 class Projects extends Component {
     render() {
         return (
         <div className="pj">
+            <a href="./diagnomics">
+            <div className="single-proj4">
+            <img className="slang-pic" src={diagpic} />
+            </div>
+            </a>
         <a href="./bloomberg">
             <div className="single-proj1">
             <img className="slang-pic" src={bloompic} />

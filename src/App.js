@@ -7,6 +7,7 @@ import About from './about';
 import Home from './home';
 import Slanguage from './slanguage';
 import Bloomberg from './bloomberg';
+import Diagnomics from './diagnomics';
 import Amf from './amf';
 
 
@@ -29,6 +30,9 @@ class App extends Component {
         </Route>
         <Route exact path="/amf">
           <Amf />
+        </Route>
+        <Route exact path="/diagnomics">
+          <Diagnomics />
         </Route>
         <Redirect to="/" />
       </Switch>
