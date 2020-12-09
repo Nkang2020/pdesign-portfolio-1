@@ -56,7 +56,7 @@
     transition: border 0.5s;
     transition-timing-function: ease;
 }
-.single-proj4 {
+.single-proj4, .single-proj5 {
     width:100%;
     /* height:462px; */
     /* background-image: url("../images/slanguage1.png");
@@ -86,6 +86,9 @@
 .single-proj4:hover {
     border: 26px solid #EFCFBD;
 }
+.single-proj5:hover {
+    border: 26px solid #1B9AAA;
+}
 .img-1 {
     width: 100%;
     height:100%;
@@ -114,6 +117,9 @@
     .single-proj4 {
         border: 21px solid #131313;
     }
+    .single-proj5 {
+        border: 21px solid #131313;
+    }
     .single-proj1:hover {
         border: 21px solid #FDA6FF;
     }
@@ -125,6 +131,9 @@
     }
     .single-proj4:hover {
         border: 21px solid #EFCFBD;
+    }
+    .single-proj5:hover {
+        border: 21px solid #1B9AAA;
     }
   }
 
@@ -143,6 +152,9 @@
     .single-proj4 {
         border: 13px solid #131313;
     }
+    .single-proj5 {
+        border: 13px solid #131313;
+    }
     .single-proj1:hover {
         border: 13px solid #FDA6FF;
     }
@@ -154,5 +166,8 @@
     }
     .single-proj4:hover {
         border: 13px solid #EFCFBD;
+    }
+    .single-proj5:hover {
+        border: 13px solid #1B9AAA;
     }
   }
