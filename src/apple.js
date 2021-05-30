@@ -17,7 +17,7 @@ class Apple extends Component {
       <div className="App-slang">
         <NavBar />
         <ProjectStart desc="Blank" img={D1}/>
-        <ProjectBoxes info={"Designing a data visualization platform."} duration={"October 2020 - Present"} role={"UX Designer"}/>
+        <ProjectBoxes info={"Designing a data visualization platform."} duration={"October 2020 - Present"} role={"Senior UX Designer"}/>
         </div>
 
         <div className="design-div">
